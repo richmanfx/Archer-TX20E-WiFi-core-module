@@ -1,0 +1,1 @@
+cmd_/home/zoer/WiFi/WiFi/rtl8852BE_WiFi_linux_v1.15.10.0.5-0-gfa2af07cf.20220503_PC_aw_20220617/modules.order := {   echo /home/zoer/WiFi/WiFi/rtl8852BE_WiFi_linux_v1.15.10.0.5-0-gfa2af07cf.20220503_PC_aw_20220617/8852be.ko; :; } | awk '!x[$$0]++' - > /home/zoer/WiFi/WiFi/rtl8852BE_WiFi_linux_v1.15.10.0.5-0-gfa2af07cf.20220503_PC_aw_20220617/modules.order
